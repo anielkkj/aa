@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 python3 main.py
 
-__
+______________________________________________________________
 
 <h1 align="center">Desk Community Generator (BETA)</h1>
 <p align="center">
