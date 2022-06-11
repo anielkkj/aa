@@ -16,8 +16,7 @@ ______________________________________________________________
 
 <h1 align="center">Desk Community Generator (BETA)</h1>
 <p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
-  <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
+
 
   <p align="center">
     Tutorial no discord <3
