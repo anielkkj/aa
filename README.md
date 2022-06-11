@@ -1,4 +1,4 @@
-<h1 align="center">Gerador de nitro oficial da Desk Community </h1>
+<h1 align="center">Gerador de nitro oficial da Desk Community  ⭐ </h1>
 
 
 
