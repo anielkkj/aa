@@ -9,9 +9,7 @@ pip install -r requirements.txt
 
 python3 main.py
 
-
-
-<p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
+__
 
 <h1 align="center">Desk Community Generator (BETA)</h1>
 <p align="center">
