@@ -1,6 +1,9 @@
 <h1 align="center">Gerador de nitro oficial da Desk Community </h1>
 
 
+
+Instalação ⚙️
+
 git clone https://github.com/barbosa666/Desk-Generator.git
 
 cd Desk-Generator
